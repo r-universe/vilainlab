@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IntramiRExploreR"]
 	path = IntramiRExploreR
 	url = https://github.com/vilainlab/intramirexplorer
-	shallow = true
-	registered = true
 [submodule "nanotatoR"]
 	path = nanotatoR
 	url = https://github.com/vilainlab/nanotator
-	shallow = true
-	registered = true
